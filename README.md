@@ -10,4 +10,4 @@ App có 3 màn hình:
 - UITableView
 - UINavigationController
 - UIGesture...
-![](QuickQuiz1.gif) ![](QuickQuiz2.gif) ![](QuickQuiz3.gif)
+![](QuickQuiz1.gif =207x368) ![](QuickQuiz2.gif =207x368) ![](QuickQuiz3.gif =207x368)
