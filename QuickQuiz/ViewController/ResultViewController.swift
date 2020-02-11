@@ -77,7 +77,8 @@ class ResultViewController: UIViewController {
   }
   
   func setupNavigation() {
-    navigationController?.navigationBar.isHidden = true
+    navigationItem.leftBarButtonItem = nil
+    navigationItem.hidesBackButton = true
   }
   
   func setupAction() {
