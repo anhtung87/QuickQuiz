@@ -25,6 +25,7 @@
 
 /* Begin PBXFileReference section */
 		6D64354D23F25CF500BF3DE3 /* ResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
+		6D64354F23F267A000BF3DE3 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		6DA1136C23F17D450038AFC1 /* QuickQuiz.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = QuickQuiz.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6DA1136F23F17D450038AFC1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		6DA1137123F17D450038AFC1 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -56,6 +57,7 @@
 		6DA1136323F17D450038AFC1 = {
 			isa = PBXGroup;
 			children = (
+				6D64354F23F267A000BF3DE3 /* README.md */,
 				6DA1136E23F17D450038AFC1 /* QuickQuiz */,
 				6DA1136D23F17D450038AFC1 /* Products */,
 			);
