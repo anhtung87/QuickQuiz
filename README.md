@@ -12,4 +12,4 @@ App có 3 màn hình:
 - UIGesture...
 
 
-<img src="QuickQuiz1.gif" alt="drawing" width="207"/> <img src="QuickQuiz2.gif" alt="drawing" width="207"/> <img src="QuickQuiz3.gif" alt="drawing" width="207"/>
+<img src="QuickQuiz1.gif" alt="drawing" width="207"/> <img src="QuickQuiz3.gif" alt="drawing" width="207"/>
