@@ -13,3 +13,6 @@ App có 3 màn hình:
 ![](QuickQuiz1.gif =207x) 
 ![](QuickQuiz2.gif =207x) 
 ![](QuickQuiz3.gif =207x)
+<img src="QuickQuiz1.gif" alt="drawing" width="207"/>
+<img src="QuickQuiz2.gif" alt="drawing" width="207"/>
+<img src="QuickQuiz3.gif" alt="drawing" width="207"/>
